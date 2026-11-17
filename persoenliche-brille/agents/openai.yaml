@@ -1,0 +1,6 @@
+interface:
+  display_name: "Persönliche Brille"
+  short_description: "Persönliches Profil anwenden und nachvollziehbar pflegen"
+  default_prompt: "Nutze $persoenliche-brille, um mein Profil zu lesen und die Darstellung an meinen aktuellen Zweck anzupassen."
+policy:
+  allow_implicit_invocation: true
