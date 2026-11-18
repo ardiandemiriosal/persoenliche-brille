@@ -2,7 +2,7 @@
 
 Gemeinsamer Agent Skill für Claude Code und Codex. Er beschreibt, wie ein privates persönliches Profil gelesen, zweckabhängig angewendet und mit ausdrücklichen Nutzerkorrekturen gepflegt wird.
 
-Dieses Repository enthält kein persönliches Profil. Jede Person verwendet ihre eigene lokale Datei. Altin, Florian und andere können dieselbe Anleitung mit ihrem eigenen Profil nutzen.
+Dieses Repository enthält kein persönliches Profil. Jede Person verwendet ihre eigene lokale Datei. Andere Personen können dieselbe Anleitung mit ihrem eigenen Profil nutzen.
 
 ## Installieren
 
